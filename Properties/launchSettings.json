@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DevOpsCreateChildTasks": {
+      "commandName": "Project",
+      "commandLineArgs": "Bug"
+    }
+  }
+}
